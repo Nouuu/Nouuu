@@ -114,7 +114,7 @@
 <br/>   
 
 
-## My stats Stats  
+## My stats  
 <img src="https://github-readme-stats.vercel.app/api?username=nouuu&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <a href="https://wakatime.com/share/@Nou/db54a57c-6e9a-4098-a47b-6f88779d422e.svg" target="_blank">
