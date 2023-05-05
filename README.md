@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
-</div>  
-  
-
-### <div align="center">I'm Noé Larrieu-Lacoste,  A passionate project leader, DevOps and developper from France 🚀</div>  
+### <div align="center">Hi ! I'm Noé Larrieu-Lacoste,  A passionate project leader, DevOps and developper from France 🚀</div>  
   
 <br/>
 
