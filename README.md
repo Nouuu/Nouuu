@@ -2,6 +2,8 @@
 
 <br/>
 
+<table><tr><td valign="top" width="70%">
+  
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nouuu&&style=flat-square)  
 
 - Creating my own ecosystem, technically and personally 🏠
@@ -18,7 +20,13 @@
 
 - ❓ Ask me about Docker 🐳  
 
-- ⚡  Fun fact I became passionate about computers by helping my grandparents to copy their tapes to computers  
+- ⚡  Fun fact I became passionate about computers by helping my grandparents to copy their tapes to computers
+
+</td><td valign="top" width="30%">
+
+<a href="https://app.daily.dev/nospy"><img src="https://api.daily.dev/devcards/v2/sjaQTBx1Y.png?type=default&r=ul7" width="356" alt="Noé Larrieu-Lacoste's Dev Card"/></a>
+  
+</td></tr></table>
   
 <br/>  
 
